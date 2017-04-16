@@ -1,6 +1,6 @@
 # _My First Website_
 
-#### _This is my first website AND first readme file!}, {04/16/17_
+#### _This is my first website AND first readme file!, 04/16/17_
 
 #### By _**Jesse Bryan**_
 

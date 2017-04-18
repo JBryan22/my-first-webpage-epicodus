@@ -1,12 +1,19 @@
 p.intro {
   width: 50%;
   font-style: italic;
+  float: left;
+  border: 2px solid green;
+  padding: 5px;
+  margin: 12px;
+  background-color: lightblue;
 }
 
 p.author {
   width: 75%;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
 }
 
 .important {
@@ -20,4 +27,13 @@ p.author {
 .inline-class {
   font-style:italic;
   font-weight:bold;
+}
+
+.lower-paragraph {
+  border-top: 2px solid green;
+  padding-top: 5px;
+}
+
+.upper-paragraph {
+  padding-bottom: 5px;
 }
